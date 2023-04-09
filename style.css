@@ -27,7 +27,7 @@
     position: relative;
 }
 
-/* Khung download */
+
 .download-frame {
     width: 33%;
     height: 22%;
@@ -100,7 +100,7 @@
     color: black;
 }
 
-/* Content-1 bo cuc*/
+
 .content-struc { 
     min-height: 37.5rem;
 
@@ -121,7 +121,7 @@
     width: 70%;
     
 }
-/* Content-1 noi dung */
+
 .wrap-text .main-title {
     font-size: 4.5rem;
 }
@@ -150,7 +150,7 @@ span.bolder {
     margin: 2% 0;
 }
 
-/* Content-2 bo cuc */
+
 .content-2 {
     background-color: #f1f1f1;
 }
@@ -165,7 +165,7 @@ span.bolder {
     color: red;
 }
 
-/* Content-3 bo cuc */
+
 .content-3 {
     background-color: #616161;
     min-height: 825px;
@@ -199,9 +199,8 @@ span.bolder {
     font-size: 1.5rem;
 }
 
-/* content-4 bo cuc */
+
 .content-4 {
-    /* min-height: 925px; */
     background-color: white;
 }
 .color-content-4 {
@@ -209,7 +208,7 @@ span.bolder {
     background-color: --bs-secondary-color-rgb !important ;
 }
 
-/* footer */
+
 .footer {
     min-height: 8rem;
 }
@@ -217,7 +216,7 @@ span.bolder {
     box-shadow:  0 1rem 3rem rgba(var(--bs-body-color-rgb),.175)!important;
 }
 
-/* responsive */
+
 @media (min-width: 280px) and (max-width: 480px) {
     html {
         font-size: 10px !important ; 
